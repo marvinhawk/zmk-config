@@ -15,6 +15,9 @@
 #define NUM 3
 #define NAV 4
 
+// Layer tap repeated press
+&lt { quick_tap_ms = <125>; };
+
 / {
         behaviors {
             hm: homerow_mods {
