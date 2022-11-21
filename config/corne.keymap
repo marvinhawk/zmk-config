@@ -16,7 +16,7 @@
 #define NAV 4
 
 // Layer tap repeated press
-&lt { quick_tap_ms = <125>; };
+&lt { quick-tap-ms = <125>; };
 
 / {
         behaviors {
